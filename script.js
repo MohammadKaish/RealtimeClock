@@ -10,7 +10,7 @@ function time(){
 }
 // time(setInterval(time,1000))
 function set(){
-    time()
-setInterval(time,1000)
+    time();
+setInterval(time,1000);
 }
 

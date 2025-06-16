@@ -13,4 +13,4 @@ function set(){
     time()
 setInterval(time,1000)
 }
-console.log(time)
+

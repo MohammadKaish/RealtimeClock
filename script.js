@@ -11,6 +11,6 @@ function time(){
 // time(setInterval(time,1000))
 function set(){
     time()
-setInterval(time,1000)
+//setInterval(time,1000)
 }
 console.log(time)

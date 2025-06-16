@@ -9,5 +9,7 @@ function time(){
 
 }
 // time(setInterval(time,1000))
+function set(){
 setInterval(time,1000)
+}
 console.log(time)
